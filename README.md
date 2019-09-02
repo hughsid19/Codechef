@@ -1,2 +1,2 @@
 # Codechef
-Probelm Solving in Codechef
+Problem Solving in Codechef
